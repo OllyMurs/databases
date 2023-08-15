@@ -1,5 +1,4 @@
 # 常用SQL
 
-1. 查看租户
-2. 查看租户资源水位
-
+## 如何登录oceanbase
+`obclient -h10.10.210.86 -P2881 -uroot -Doceanbase -A`
